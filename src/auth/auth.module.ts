@@ -24,7 +24,7 @@ export const ROUTES: Routes = [
 export const firebaseConfig: FirebaseAppConfig = {
   apiKey: "AIzaSyAYqaKLFPEsbsk1NB2PAYLpEhsfS54a7ko",
   authDomain: "fitenss-app.firebaseapp.com",
-  databaseURL: "https://fitenss-app-default-rtdb.europe-west1.firebasedatabase.app",
+  databaseURL: "https://fitenss-app-default-rtdb.europe-west1.firebasedatabase.app/",
   projectId: "fitenss-app",
   storageBucket: "fitenss-app.appspot.com",
   messagingSenderId: "218279070989"
